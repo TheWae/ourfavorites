@@ -1,3 +1,6 @@
 Steak
 Pizza
 Chicken
+Burger
+Cheese
+Rice
