@@ -2,4 +2,3 @@ Steak
 Pizza
 Chicken
 Burger
-Cheese
